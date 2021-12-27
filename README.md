@@ -1,9 +1,12 @@
 # BREYURIS
 Simple GUI of VNText Patch + YPF Manager Tool
+
 I'm using this for personal use, but I think sharing it will be usefull for people who hate using CMD or can't code.
 
 All credit goes to :
+
 VNTranslationTool https://github.com/arcusmaximus/VNTranslationTools
+
 YPF Manager Tool https://github.com/davidescrima9/YPF_Manager_Tool & https://github.com/Xorboth/YPF-Manager
 
 Simple Instruction : 
