@@ -1,0 +1,15 @@
+E:\BREYURIS\BREYURIS\BREYURIS\bin\Release\netcoreapp3.1\BREYURIS.exe
+E:\BREYURIS\BREYURIS\BREYURIS\bin\Release\netcoreapp3.1\BREYURIS.deps.json
+E:\BREYURIS\BREYURIS\BREYURIS\bin\Release\netcoreapp3.1\BREYURIS.runtimeconfig.json
+E:\BREYURIS\BREYURIS\BREYURIS\bin\Release\netcoreapp3.1\BREYURIS.runtimeconfig.dev.json
+E:\BREYURIS\BREYURIS\BREYURIS\bin\Release\netcoreapp3.1\BREYURIS.dll
+E:\BREYURIS\BREYURIS\BREYURIS\bin\Release\netcoreapp3.1\BREYURIS.pdb
+E:\BREYURIS\BREYURIS\BREYURIS\obj\Release\netcoreapp3.1\BREYURIS.Form1.resources
+E:\BREYURIS\BREYURIS\BREYURIS\obj\Release\netcoreapp3.1\BREYURIS.csproj.GenerateResource.cache
+E:\BREYURIS\BREYURIS\BREYURIS\obj\Release\netcoreapp3.1\BREYURIS.GeneratedMSBuildEditorConfig.editorconfig
+E:\BREYURIS\BREYURIS\BREYURIS\obj\Release\netcoreapp3.1\BREYURIS.AssemblyInfoInputs.cache
+E:\BREYURIS\BREYURIS\BREYURIS\obj\Release\netcoreapp3.1\BREYURIS.AssemblyInfo.cs
+E:\BREYURIS\BREYURIS\BREYURIS\obj\Release\netcoreapp3.1\BREYURIS.csproj.CoreCompileInputs.cache
+E:\BREYURIS\BREYURIS\BREYURIS\obj\Release\netcoreapp3.1\BREYURIS.dll
+E:\BREYURIS\BREYURIS\BREYURIS\obj\Release\netcoreapp3.1\BREYURIS.pdb
+E:\BREYURIS\BREYURIS\BREYURIS\obj\Release\netcoreapp3.1\BREYURIS.genruntimeconfig.cache
